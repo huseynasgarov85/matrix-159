@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String name="huseynn";
-        System.out.println(name);
+        Integer i = 5;
+        System.out.println(i);
     }
 }
