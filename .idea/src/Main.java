@@ -1,7 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String name = "Ali";
-        String surname = "Asgarov";
-        System.out.println(name + " " + surname);
+        System.out.println("Hello World!");
+        System.out.println("hello Main method");
     }
 }
