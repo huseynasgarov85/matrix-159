@@ -5,5 +5,6 @@ public class Main {
         int b=6;
         int c=a+b;
         System.out.println(c);
+        int[] array =new int[2];
     }
 }
